@@ -1,4 +1,7 @@
-<!-- [![DOI](https://zenodo.org/badge/376737392.svg)](https://zenodo.org/badge/latestdoi/376737392) -->
+
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7410349.svg)](https://doi.org/10.5281/zenodo.7410349)
+
 
 # Fixed interval scheduling problem with minimal idle time with an application to music arrangement problem
 
