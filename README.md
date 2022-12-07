@@ -41,10 +41,10 @@ We generated experiment data with the following script:
 python benchmarking_exp.py 
 ```
 
-On this script, we evaluated two compositions, varying the type of annealing, solvers and optimization parameters. Data used in the publication is located inside the results folder. 
+On this script, we evaluated two compositions, varying the type of annealing, solvers and optimization parameters. Data used in the manuscript is located inside the results folder. 
 
 
-## Publication
+## Manuscript
 
 L. Botelho, Ö. Salehi, *Fixed interval scheduling problem with minimal idle time with an application to music arrangement problem*
 
